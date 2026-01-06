@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadhossain1" alt="ahadhossain1" /></a> </p>
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
+
 - 🔭 I’m currently working on **Cubix Technology Ltd.**
 
 - 🌱 I’m currently learning **Node.js and Python**
