@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Ahad Hossain</h1>
 <h3 align="center">A passionate Web Application & Front-End Developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxifZDNOWbDBsPNrre5AvJhDPB3x5OV3hNg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXovznCN3licyoinKQc3I0UB5zk_KPwlTcw&s)">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxifZDNOWbDBsPNrre5AvJhDPB3x5OV3hNg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadhossain1&label=Profile%20views&color=0e75b6&style=flat" alt="ahadhossain1" /> </p>
 
