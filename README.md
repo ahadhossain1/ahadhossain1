@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Node.js and Python**
 
-- 👯 I’m looking to collaborate on **HMS Project**
+- 👯 I'm looking to collaborate on **HMS Software**
 
-- 🤝 I’m looking for help with **HMS Project**
+- 🤝 I'm looking for help with **HMS Software development and support**
 
 - 👨‍💻 All of my projects are available at [https://ahad-hossain-portfolio-website.vercel.app/](https://ahad-hossain-portfolio-website.vercel.app/)
 
@@ -25,11 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/ahadhossain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahadhossain1" height="30" width="40" /></a>
 <a href="https://dev.to/@ahadhossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ahadhossan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdahadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdahadhossain" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ahadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ahadhossain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahadhossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahadhossan" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/3610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="3610" height="30" width="40" /></a>
+<a href="https://codepen.io/@Ahadhossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Ahadhossan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/md-ahad-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-ahad-hossain" height="30" width="40" /></a>
+<a href="https://codesandbox.io/ahadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ahadhossain" height="30" width="40" /></a>
+<a href="https://leetcode.com/ahadhossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahadhossan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
